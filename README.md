@@ -1,3 +1,3 @@
 # dio-java-basico
-Repositório para armazenar exercícios do curso de Java básico
+Repositório para armazenar exercícios do curso de Java básico pela DIO
 
