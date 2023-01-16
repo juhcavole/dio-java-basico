@@ -4,6 +4,7 @@ public class Operadores {
 
         //unários
         int numero = 5;
+        boolean variavel = true;
 
         numero = -numero;
 
@@ -12,6 +13,17 @@ public class Operadores {
         numero = numero * -1;
 
         System.out.println(numero);
+
+        //incremento
+        
+        System.out.println(++numero);
+
+        //decremento
+        System.out.println(--numero);
+
+        //Negação
+        System.out.println(!variavel);
+
         
     }
 }
